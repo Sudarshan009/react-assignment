@@ -1,0 +1,155 @@
+.container {
+  width: 100%;
+  max-width: 1340;
+}
+hr.fsthr {
+  background: #ec9d0b;
+  height: 1px;
+  margin: 10px 0px 15px 0px;
+}
+.main {
+  margin: 15px;
+}
+.btnclass {
+  float: right;
+}
+
+img.logo {
+  height: 20px;
+}
+
+.columnData {
+  width: 100%;
+  column-count: 2;
+  column-width: 100px;
+}
+
+.ContactColumn {
+  width: 100%;
+  column-count: 3;
+  column-width: 100px;
+  margin-top: 50px;
+}
+
+@media screen and (max-width: 600px) {
+  .ContactColumn {
+    width: 100%;
+    column-count: 1;
+    column-width: 100px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .columnData {
+    width: 100%;
+    column-count: 1;
+    column-width: 100px;
+  }
+}
+
+button {
+  border: none;
+  padding: 1px 15px 1px 15px;
+  font-size: 14px;
+  color: gray;
+}
+
+.container.infobox {
+  margin-top: 40px;
+}
+.col-logo {
+  margin-top: 10px;
+}
+h4.infotitle {
+  font-size: 14px;
+  color: gray;
+  margin-bottom: 3px;
+}
+span.bluetext.spantext {
+  color: #4949f7;
+}
+
+input.bluetext.inputfield {
+  color: #4949f7;
+}
+input.inputfield {
+  color: #4a4848;
+  border: none;
+  border-bottom: 1px solid #80808045;
+  width: 100%;
+  margin-bottom: 10px;
+}
+span.spantext {
+  font-size: 13px;
+}
+.col-lg-9.topleftcol {
+  border-left: 1px solid #80808052;
+}
+
+.panel.panel-default {
+  border: 1px solid lightgray;
+  min-height: 67px;
+  padding: 5px;
+  line-height: 1.1rem;
+  border-left: 3px solid red;
+  margin-bottom: 20px;
+}
+
+h2.ContTitle {
+  font-size: 13px;
+  margin-bottom: 2px;
+}
+span.ContactNum {
+  font-size: 12px;
+  color: gray;
+}
+span.ContactPost {
+  font-size: 12px;
+  color: gray;
+}
+
+.navbar {
+  position: relative;
+  display: flex;
+  background: #0000ff0d;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+}
+
+.btnstyle {
+  margin-right: 10px;
+}
+
+.nav-links {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  list-style: none;
+}
+
+/* .overlayEff {
+  content: "";
+  position: relative;
+  overflow: hidden;
+}
+
+.overlayEff::before {
+  content: "Reveal";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  justify-content: center;
+  height: 100%;
+  background-color: red;
+  align-items: center;
+  transform: translateY(100%);
+  transition: all 0.8;
+}
+
+.overlayEff:hover:before {
+  transform: translateY(0);
+} */

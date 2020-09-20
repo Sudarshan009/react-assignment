@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "title": "Company Name",
+    "className": "inputfield",
+    "type": "text",
+    "value": "ABB Ltd"
+  },
+  {
+    "id": 2,
+    "title": "Address",
+    "className": "inputfield",
+    "type": "text",
+    "value": "Affolternstrasse 44, Zurlch, Zurlch 8085, Swltzarland"
+  },
+  {
+    "id": 3,
+    "title": "Phone",
+    "className": "inputfield",
+    "type": "tel",
+    "value": "+41 433177111"
+  },
+  {
+    "id": 4,
+    "title": "Website",
+    "className": "inputfield",
+    "type": "url",
+    "value": "social.abb"
+  },
+  {
+    "id": 5,
+    "title": "Ownership",
+    "className": "inputfield",
+    "type": "text",
+    "value": "Corporation"
+  },
+  {
+    "id": 6,
+    "title": "Linkedin url",
+    "className": "inputfield bluetext",
+    "type": "url",
+    "value": "https://linked.in/company/abb"
+  },
+  {
+    "id": 7,
+    "title": "Parent Category",
+    "className": "inputfield",
+    "type": "text",
+    "value": "ABB Ltd"
+  },
+  {
+    "id": 8,
+    "title": "Primary Industry",
+    "className": "inputfield",
+    "type": "text",
+    "value": "Electrical equipment, Appliance and company manufacturing"
+  },
+  {
+    "id": 9,
+    "title": "Revenue",
+    "className": "inputfield",
+    "type": "text",
+    "value": "$1B+"
+  },
+  {
+    "id": 10,
+    "title": "Employee Size",
+    "className": "inputfield",
+    "type": "text",
+    "value": "10,001"
+  },
+  {
+    "id": 11,
+    "title": "SIC",
+    "className": "inputfield",
+    "type": "text",
+    "value": "36 - Electronic, Electrical equipments & component except computer Eqpmnt"
+  },
+  {
+    "id": 12,
+    "title": "NAICS",
+    "className": "inputfield",
+    "type": "text",
+    "value": "335 - Electronic, Electrical equipments & component manufacturing"
+  },
+  {
+    "id": 13,
+    "title": "All Industry",
+    "className": "inputfield",
+    "type": "text",
+    "value": "335 - Electronic, Electrical equipments & component manufacturing"
+  },
+  {
+    "id": 14,
+    "title": "All SIC",
+    "className": "inputfield",
+    "type": "text",
+    "value": "ABB Ltd"
+  }
+]
